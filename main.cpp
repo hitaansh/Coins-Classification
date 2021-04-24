@@ -1,9 +1,9 @@
 
 //  main.cpp
-//  help
+//  
 //
-//  Created by Hitaansh Gaur on 1/30/20.
-//  Copyright © 2020 Hitaansh Gaur. All rights reserved.
+//  Created by Hitaansh Gaur.
+//  Copyright © 2021 Hitaansh Gaur. All rights reserved.
 //
 #include <iostream>
 #include <fstream>
